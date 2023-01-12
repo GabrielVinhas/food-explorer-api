@@ -1,7 +1,7 @@
 <h1 align="center">
    Food Explorer - API
 </h1>
-
+<img src="https://i.imgur.com/q8WONbr.png">
 
 ## 🚀 Começando...
 
